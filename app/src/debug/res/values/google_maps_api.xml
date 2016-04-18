@@ -1,0 +1,19 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=20:6A:1E:C8:57:6F:B5:2C:F3:D1:31:D6:88:AB:76:09:7C:52:8C:76%3Bpl.example.piotrek.appwithservice
+
+    You can also add your credentials to an existing key, using this line:
+    20:6A:1E:C8:57:6F:B5:2C:F3:D1:31:D6:88:AB:76:09:7C:52:8C:76;pl.example.piotrek.appwithservice
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyBfMwM9jP1Hg3PO5KPdvbGQFTydwMVsJbc</string>
+</resources>
